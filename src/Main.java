@@ -8,18 +8,7 @@ public class Main {
      //System.out.println("Wellcome to Sorry Java!"); //error
     Player p2 = new Player();
     public static void main(String[] args) {
-    /*This section is test code that works
-      //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("Hello and welcome!");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
-
-     */
         System.out.println("Welcome to Sorry Java!\n");
         System.out.println("The object of the game is to get all your pawns to the target number by way of dice rolls (0-12) (card and special effects will be in future updates).");
         System.out.println("The user will be player 1 and 3 Cpu's that will act randomly will follow.  The first to get all pawns to the target number will win.\n");
