@@ -10,7 +10,6 @@
 * This is a project is a demonstration of the syntax I learned about Java as a beginner in Java.  This project was also to help add to my utility belt of coding languages and practice working with data structures.
 
 ### Video Demo
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 [Sorry Java!](http://youtube.link.goes.here)
 
 # Development Environment
