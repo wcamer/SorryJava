@@ -22,7 +22,7 @@ public class Main {
      */
         System.out.println("Welcome to Sorry Java!\n");
         System.out.println("The object of the game is to get all your pawns to the target number by way of dice rolls (0-12) (card and special effects will be in future updates).");
-        System.out.println("The user will be player 1 and 3 Cpu's that will act randomly will follow.  The first to get all pawns to the target number will win.");
+        System.out.println("The user will be player 1 and 3 Cpu's that will act randomly will follow.  The first to get all pawns to the target number will win.\n");
 
         //Constructs Player class from Player.java
         Player play = new Player(); //creates a player object
