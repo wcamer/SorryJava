@@ -10,7 +10,7 @@
 * This is a project is a demonstration of the syntax I learned about Java as a beginner in Java.  This project was also to help add to my utility belt of coding languages and practice working with data structures.
 
 ### Video Demo
-[Sorry Java!](http://youtube.link.goes.here)
+[Sorry Java!](https://www.youtube.com/watch?v=PcGXaRy-zNY)
 
 # Development Environment
 - IntelliJ IDEA 2023.3.3 (Ultimate Edition) -- Free 30 Day Trial Available

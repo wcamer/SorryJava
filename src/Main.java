@@ -99,11 +99,14 @@ public class Main {
 
 
         }
+        /*
         System.out.println(player.name + " now has all their pawns!  And here they are...");
         System.out.println(player.pawns.get(0).pawn_name);
         System.out.println(player.pawns.get(1).pawn_name);
         System.out.println(player.pawns.get(2).pawn_name);
         System.out.println(player.pawns.get(3).pawn_name);
+
+         */
 
     }// end of give_player_pawn method
 
